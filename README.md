@@ -20,11 +20,6 @@
 ![Tauri2](https://img.shields.io/badge/Tauri2-FFC131?style=for-the-badge&logo=tauri&logoColor=111111)
 ![React Ink](https://img.shields.io/badge/React%20Ink-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ## 职业方向
 
 ![Current Target](https://img.shields.io/badge/当前在投-AI%20Agent%20应用开发工程师-2563EB?style=for-the-badge&logo=openai&logoColor=white)
