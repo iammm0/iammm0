@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Go+%7C+TypeScript+%7C+Python;Next.js+%7C+FastAPI+%7C+Gin;LangChain+%7C+LangGraph;MySQL+%7C+SQLite+%7C+Redis+%7C+Qdrant)
-
-[![GitHub](https://img.shields.io/badge/GitHub-iammm0-181717?style=for-the-badge&logo=github)](https://github.com/iammm0)
 ![Profile Views](https://komarev.com/ghpvc/?username=iammm0&style=for-the-badge&color=0e75b6)
 
 ## 常用语言
