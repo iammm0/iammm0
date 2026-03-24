@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=iammm0&style=for-the-badge&color=0e75b6)
-
 ## 常用语言
 
 ![Languages](https://skillicons.dev/icons?i=go,ts,python)
