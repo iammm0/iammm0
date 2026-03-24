@@ -15,7 +15,6 @@
 ![Kratos](https://img.shields.io/badge/Kratos-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
 ![Tauri2](https://img.shields.io/badge/Tauri2-FFC131?style=for-the-badge&logo=tauri&logoColor=111111)
 ![React Ink](https://img.shields.io/badge/React%20Ink-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
