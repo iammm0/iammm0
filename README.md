@@ -1,4 +1,4 @@
-## 工作技术栈（AI Agent）
+## 工作技术栈（一直在用）
 
 ![Core Stack](https://skillicons.dev/icons?i=go,ts,python,fastapi,docker,mysql,sqlite,redis)
 
@@ -7,7 +7,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
-## 兴趣技术栈
+## 兴趣技术栈（玩过用过）
 
 ![Interest Stack](https://skillicons.dev/icons?i=nextjs,kubernetes,mongodb,kotlin,scala,rust,cpp,tauri,swift)
 
