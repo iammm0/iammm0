@@ -1,10 +1,6 @@
 ## 工作技术栈（一直在用）
 
-![Core Stack](https://skillicons.dev/icons?i=go,ts,python,rust,fastapi,docker,mysql,sqlite,redis,gin)
-
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=white)
+![Core Stack](https://skillicons.dev/icons?i=go,ts,python,rust,fastapi,docker,mysql,sqlite,redis)
 
 ## 职业方向
 
