@@ -1,6 +1,6 @@
 ## 工作技术栈（一直在用）
 
-![Core Stack](https://skillicons.dev/icons?i=go,ts,python,rust,fastapi,docker,mysql,sqlite,redis)
+![Core Stack](https://skillicons.dev/icons?i=go,ts,python,rust,docker,postgresql,sqlite,redis)
 
 ## 职业方向
 
