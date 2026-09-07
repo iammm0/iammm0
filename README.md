@@ -1,9 +1,45 @@
-## 工作技术栈（一直在用）
+# I build the systems that let AI agents act.
+
+AI Agent engineering · Security tooling · Execution infrastructure
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/iammm0/secbot">
+        <img src="./assets/secbot.png" width="96" alt="secbot logo">
+      </a>
+      <br>
+      <strong><a href="https://github.com/iammm0/secbot">secbot</a></strong>
+      <br>
+      An authorized security-testing workspace for AI-assisted security workflows.
+      <br><br>
+      <code>TypeScript</code> <code>Security</code> <code>AI Agent</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/iammm0/execgo">
+        <img src="./assets/execgo.png" width="96" alt="execgo logo">
+      </a>
+      <br>
+      <strong><a href="https://github.com/iammm0/execgo">execgo</a></strong>
+      <br>
+      An agent-first execution kernel and action harness for reliable tool use.
+      <br><br>
+      <code>Go</code> <code>Runtime</code> <code>Infrastructure</code>
+    </td>
+  </tr>
+</table>
+
+## More work
+
+- **[mph-agent](https://github.com/iammm0/mph-agent)** — Converts natural-language COMSOL requirements into complete `.mph` simulation models.
+- **[damn-agent](https://github.com/iammm0/damn-agent)** — Chinese documentation for learning AI Agent engineering.
+
+## Core stack
 
 ![Core Stack](https://skillicons.dev/icons?i=go,ts,python,docker,postgresql,sqlite,redis)
 
-## 职业方向
+Currently exploring AI Security and safer, more reliable Agent Infrastructure.
 
-![Current Target](https://img.shields.io/badge/当前在做-AI%20Agent-2563EB?style=for-the-badge&logo=openai&logoColor=white)
-![Future Goal](https://img.shields.io/badge/未来方向1-AI%20Security-7C3AED?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Future Goal](https://img.shields.io/badge/未来方向2-AI%20Infra-0EA5E9?style=for-the-badge&logo=kubernetes&logoColor=white)
+[Personal site](https://iammm0.github.io)
