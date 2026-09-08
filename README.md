@@ -29,12 +29,35 @@ AI Agent engineering · Security tooling · Execution infrastructure
       <code>Go</code> <code>Runtime</code> <code>Infrastructure</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/iammm0/mph-agent">
+        <img src="./assets/mph-agent.png" width="96" alt="mph-agent logo">
+      </a>
+      <br>
+      <strong><a href="https://github.com/iammm0/mph-agent">mph-agent</a></strong>
+      <br>
+      Converts natural-language COMSOL requirements into complete simulation models across geometry, physics, meshing, studies, and solving.
+      <br><br>
+      <code>Python</code> <code>COMSOL</code> <code>Domain Agent</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/iammm0/damn-agent">
+        <img src="./assets/damn-agent.png" width="96" alt="damn-agent logo">
+      </a>
+      <br>
+      <strong><a href="https://github.com/iammm0/damn-agent">damn-agent</a></strong>
+      <br>
+      A Chinese documentation site for understanding, building, and evaluating AI Agent systems.
+      <br><br>
+      <code>MDX</code> <code>Documentation</code> <code>Agent Engineering</code>
+    </td>
+  </tr>
 </table>
 
 ## More work
 
-- **[mph-agent](https://github.com/iammm0/mph-agent)** — Converts natural-language COMSOL requirements into complete `.mph` simulation models.
-- **[damn-agent](https://github.com/iammm0/damn-agent)** — Chinese documentation for learning AI Agent engineering.
+- **[execgo-runtime](https://github.com/iammm0/execgo-runtime)** — A process-level data-plane runtime with persistence, cancellation, resource policy, and artifact auditing.
 
 ## Core stack
 
